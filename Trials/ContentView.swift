@@ -19,7 +19,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, jkbgjabibhjajhd!")
             Text("Hello, jkbgjabibhjajhd!")
-            
+            Image(systemName: "keyboard")
         }
         .padding()
     }
