@@ -20,6 +20,7 @@ struct ContentView: View {
             Text("Hello, jkbgjabibhjajhd!")
             Text("Hello, jkbgjabibhjajhd!")
             Image(systemName: "keyboard")
+            Text("Hello, progress")
         }
         .padding()
     }
